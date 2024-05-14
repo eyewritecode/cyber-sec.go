@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-
-	"github.com/eyewritecode/cyber-sec/shodan/shodan"
+	"shodan/shodan"
 )
 
 func main() {
